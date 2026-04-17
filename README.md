@@ -1,6 +1,3 @@
-# Restaurant-POS-System
-Basic Restaurant POS System {Console Based}
-
 # 🍽️ Restaurant POS System (Java Console Application)
 
 A **console-based Restaurant Point of Sale (POS) system** developed in **Java** using **Object-Oriented Programming (OOP)** principles.  
